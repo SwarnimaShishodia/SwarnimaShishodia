@@ -14,6 +14,7 @@
 - 📫 How to reach me **swarnimashishodia11@gmail.com**
 
 - ⚡ Fun fact **I am having a generation gap with my own generation**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
