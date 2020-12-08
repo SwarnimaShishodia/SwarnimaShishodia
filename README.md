@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Pizza ordering website**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Express**
 
-- 🤝 I’m looking for help with **Node js**
+- 🤝 I’m looking for help with **Express**
 
 - 💬 Ask me about **Cp/C++/Python/DSA**
 
