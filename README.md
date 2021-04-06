@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnimashishodia&label=Profile%20views&color=0e75b6&style=flat" alt="swarnimashishodia" /> </p>
 
-- 🔭 I’m currently working on **Pizza ordering website**
+- 🔭 I’m currently working on **Blogging website**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **everything**
 
-- 🤝 I’m looking for help with **Express**
+- 🤝 I’m looking for help with **Django**
 
 - 💬 Ask me about **Cp/C++/Python/DSA**
 
 - 📫 How to reach me **swarnimashishodia11@gmail.com**
 
-- ⚡ Fun fact **I am having a generation gap with my own generation.**
+- ⚡ Fun fact **I can't hack your wifi**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
