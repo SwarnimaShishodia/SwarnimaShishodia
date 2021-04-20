@@ -21,3 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/swarnima__13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarnima__13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swarnima-shishodia-605802193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarnima shishodia" height="30" width="40" /></a>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarnimaShishodia&show_icons=true&locale=en&layout=compact" alt="SwarnimaShishodia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SwarnimaShishodia&show_icons=true&locale=en" alt="SwarnimaShishodia" /></p>
