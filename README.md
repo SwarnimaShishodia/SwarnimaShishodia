@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnimashishodia&label=Profile%20views&color=0e75b6&style=flat" alt="swarnimashishodia" /> </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **everything**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Dynamic Programming**
 
 - 💬 Ask me about **Cp/C++/Python/DSA**
 
