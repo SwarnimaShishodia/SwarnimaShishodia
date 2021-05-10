@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Dynamic Programming**
+- 🤝 I’m looking for help with **REST**
 
 - 💬 Ask me about **Cp/C++/Python/DSA**
 
