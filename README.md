@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnimashishodia&label=Profile%20views&color=0e75b6&style=flat" alt="swarnimashishodia" /> </p>
 
-- 🔭 I’m currently working on **React**
-
 - 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **Django**
 
 - 💬 Ask me about **Cp/C++/Python/DSA**
 
