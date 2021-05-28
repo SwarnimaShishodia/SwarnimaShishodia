@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Cp/C++/Python/DSA**
+- 💬 Ask me about **C++/DSA**
 
 - 📫 How to reach me **swarnimashishodia11@gmail.com**
 
