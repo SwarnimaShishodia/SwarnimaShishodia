@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **swarnimashishodia11@gmail.com**
 
-- ⚡ Fun fact **I don't drink coffee. 🌝**
+- ⚡ Fun fact **Don't drink coffee :|**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
