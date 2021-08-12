@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swarnima__13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarnima__13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swarnima-shishodia-605802193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarnima shishodia" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/swarnima-shishodia-605802193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarnima shishodia" height="30" width="40" /></a>-->
 <a href="https://www.codechef.com/users/swarnima13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="swarnima shishodia" height="30" width="40" /></a>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarnimaShishodia&show_icons=true&locale=en&layout=compact" alt="SwarnimaShishodia" /></p>
