@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Swarnima Shishodia</h1>
-<h3 align="center">Competitive Programmer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnimashishodia&label=Profile%20views&color=0e75b6&style=flat" alt="swarnimashishodia" /> </p>
 
-- 🌱 I’m currently learning **everything :)**
+- 🌱 I’m currently learning **system design :)**
 
-- 💬 Ask me about **C++/DSA**
+- 💬 Ask me about **Java/Springboot/DSA**
 
 - 📫 How to reach me **swarnimashishodia11@gmail.com**
 
-- ⚡ Fun fact ** I don't drink coffee :|**
+- ⚡ Fun fact ** I can write clean Java code faster than I can decide what to watch on Netflix 🍿 :|**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
